@@ -49,6 +49,3 @@ reader.question("What would you like to calculate?", function(input){
 	reader.close()
 
 });
-
-
-// Find the remainder when one number is divided by another number (modulus)
